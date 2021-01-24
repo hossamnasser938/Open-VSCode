@@ -1,0 +1,16 @@
+{
+  "name": "open-vscode",
+  "version": "1.0.0",
+  "description": "opens projects through vscode",
+  "main": "index.js",
+  "bin": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hossam Abdelnaser",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^6.2.0",
+    "inquirer": "^7.3.3"
+  }
+}

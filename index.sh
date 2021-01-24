@@ -1,0 +1,1 @@
+node ~/Data/JS/Node/scripts/open-vscode/index.js $1

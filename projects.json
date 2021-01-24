@@ -1,0 +1,23 @@
+{
+  "projects": [
+    {
+      "name": "Vepa",
+      "location": "/Users/hossam/Data/MPower\\ Software/Vepa/VepaApp"
+    },
+    {
+      "name": "the-hard-parts-of-servers-amd-node course",
+      "location": "/Users/hossam/Data/JS/FrontEndMasters\\ courses/The\\ hard\\ parts\\ of\\ servers\\ and\\ nodejs"
+    },
+    {
+      "name": "ecommerce",
+      "location": "/Users/hossam/Data/Wjl/e-commerce/App/ECommerce"
+    },
+    { "name": "ajwbt", "location": "/Users/hossam/Data/Wjl/ajwbt/App" },
+    {
+      "name": "intro-to-node course",
+      "location": "/Users/hossam/Data/JS/FrontEndMasters\\ courses/Introduction\\ to\\ Nodejs"
+    },
+    { "name": "buzzly", "location": "/Users/hossam/Data/JS/RN/Buzzly" },
+    { "name": "oneemall", "location": "/Users/hossam/Data/JS/RN/oneemall" }
+  ]
+}
